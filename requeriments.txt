@@ -15,3 +15,5 @@ openpyxl==3.1.2
 google-api-python-client==2.108.0
 google-auth-oauthlib==1.1.0
 google-auth-httplib2==0.1.1
+earthengine-api==0.1.372
+geemap==0.29.5
